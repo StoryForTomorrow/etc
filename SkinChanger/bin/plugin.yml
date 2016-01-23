@@ -1,0 +1,6 @@
+name: CrypticCore
+main: cryptic.network.CrypticMain
+version: 0.1
+author: Johnn
+authors: []
+description: Core plugin for the Cryptic Network

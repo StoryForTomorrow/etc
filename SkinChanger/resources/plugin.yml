@@ -1,0 +1,6 @@
+name: SkinTest
+main: cryptic.skin.test.SkinChanger
+version: 0.1
+depend: [ProtocolLib]
+author: Johnn
+authors: []

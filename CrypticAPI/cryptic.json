@@ -1,0 +1,10 @@
+{
+	"name":"Cryptic Network",
+	"name_short":"Cryptic",
+	"name_lowercase":"cryptic",
+	"description":"",
+	"version":"0.1",
+	"stage":"Development",
+	"game_versions": ["1.7.10", "1.8", "1.8.1", "1.8.2", "1.8.3"],
+	"module_directory":"/modules"
+}

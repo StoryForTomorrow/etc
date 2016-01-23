@@ -1,0 +1,17 @@
+name: CustomSkins
+version: '${project.version}-${env.BUILD_NUMBER}'
+description: 'Allowes you to change the skin of every player just on your server.'
+author: Janmm14
+website: ''
+
+depend: [Minecraft-Change-Skin-API, ProtocolLib]
+
+load: STARTUP
+main: de.janmm14.customskins.CustomSkins
+
+commands:
+  customskins:
+    description: Change the skin of a player.
+    aliases: [skinchange, cs, sc, changeskin]
+    permission: customskins.changeskin
+    usage: To see the usage info of this command, execute /changeskin
